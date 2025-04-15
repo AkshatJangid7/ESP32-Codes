@@ -11,4 +11,4 @@ This project contains the Arduino code and circuit diagram for an ultrasonic sen
 
 Below is the circuit image for the ultrasonic sensor setup:
 
-![Ultrasonic Sensor Circuit](/pinout.png)
+![Ultrasonic Sensor Circuit](pinout.png)
