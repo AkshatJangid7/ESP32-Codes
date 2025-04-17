@@ -15,7 +15,7 @@ void loop() {
     char c = Serial.read();
     if (c == '\n') {
       angle = input.toInt();
-      if (angle >= 0 && angle <= 360) {
+      if (angle >= 0 && angle <= 180) {
         myServo.write(angle);
       }
       input = "";
